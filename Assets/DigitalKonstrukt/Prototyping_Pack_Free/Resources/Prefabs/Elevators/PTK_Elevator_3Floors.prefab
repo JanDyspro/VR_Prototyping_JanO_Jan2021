@@ -27,7 +27,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1196599362986582}
   m_LocalRotation: {x: -0.000000059604645, y: 0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.94499767, y: 0.05474932, z: 0.94407725}
+  m_LocalPosition: {x: 0.94499767, y: 0.05474932, z: 0.9440773}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4336349914575674}
@@ -121,7 +121,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1583386210998996}
   m_LocalRotation: {x: -0.000000059604645, y: 0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.94499767, y: 0.05474932, z: 0.94407725}
+  m_LocalPosition: {x: -0.94499767, y: 0.05474932, z: 0.9440773}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4336349914575674}
@@ -295,6 +295,7 @@ GameObject:
   - component: {fileID: 33344668940685064}
   - component: {fileID: 23687648707367804}
   - component: {fileID: 64316372510306470}
+  - component: {fileID: 7894430157625928044}
   m_Layer: 0
   m_Name: PTK_Elevator (1)
   m_TagString: Untagged
@@ -379,3 +380,18 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 985cd6d57cb8650408d3496bcdccd54c, type: 3}
+--- !u!111 &7894430157625928044
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1700556721083670}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: 8384c52b510c8ed4f9f4e80361e12f3c, type: 2}
+  m_Animations: []
+  m_WrapMode: 0
+  m_PlayAutomatically: 0
+  m_AnimatePhysics: 0
+  m_CullingType: 0
