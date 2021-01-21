@@ -25,8 +25,10 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="CornerClimb.cs" t="Include" />
           <e p="OpenDoor.cs" t="Include" />
           <e p="PlayAnimation.cs" t="Include" />
+          <e p="PressurePlate.cs" t="Include" />
         </e>
         <e p="TextMesh Pro" t="Include">
           <e p="Examples &amp; Extras" t="Include">

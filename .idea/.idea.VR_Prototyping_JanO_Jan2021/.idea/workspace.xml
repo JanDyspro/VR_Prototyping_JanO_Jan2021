@@ -20,8 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b537e3cd-dff7-4c49-aab9-0275776475b5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/DigitalKonstrukt/Prototyping_Pack_Free/Resources/Prefabs/Elevators/PTK_Elevator_3Floors.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/DigitalKonstrukt/Prototyping_Pack_Free/Resources/Prefabs/Elevators/PTK_Elevator_3Floors.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.VR_Prototyping_JanO_Jan2021/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VR_Prototyping_JanO_Jan2021/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.VR_Prototyping_JanO_Jan2021/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VR_Prototyping_JanO_Jan2021/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.VR_Prototyping_JanO_Jan2021/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VR_Prototyping_JanO_Jan2021/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/OpenDoor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/OpenDoor.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,13 +35,17 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CornerClimb.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayAnimation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PressurePlate.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/OpenDoor.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayAnimation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/OpenDoor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PressurePlate.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CornerClimb.cs" />
       </list>
     </option>
   </component>
@@ -84,6 +91,7 @@
       <updated>1611135419572</updated>
       <workItem from="1611135427240" duration="59000" />
       <workItem from="1611138009589" duration="4443000" />
+      <workItem from="1611243201231" duration="3017000" />
     </task>
     <servers />
   </component>
