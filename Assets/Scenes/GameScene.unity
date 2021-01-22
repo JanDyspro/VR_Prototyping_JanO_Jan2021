@@ -4412,6 +4412,16 @@ PrefabInstance:
       propertyPath: m_Constraints
       value: 122
       objectReference: {fileID: 0}
+    - target: {fileID: 2294232361272033961, guid: 0ddfc520c9a0c444ca01b9e5f24afb7b,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5926425
+      objectReference: {fileID: 0}
+    - target: {fileID: 2294232361272033961, guid: 0ddfc520c9a0c444ca01b9e5f24afb7b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.84
+      objectReference: {fileID: 0}
     - target: {fileID: 4763170952409570801, guid: 0ddfc520c9a0c444ca01b9e5f24afb7b,
         type: 3}
       propertyPath: onButtonUp.m_PersistentCalls.m_Calls.Array.size
@@ -5664,7 +5674,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   door: {fileID: 1225075976}
   targetPosition: {x: 0.02499998, y: 9.231, z: 1.763}
-  moveDuration: 1
+  moveDuration: 5
   isPressed: 0
 --- !u!65 &2047001065
 BoxCollider:
@@ -5677,8 +5687,8 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 1, y: 4.84472, z: 0.99999964}
-  m_Center: {x: 0, y: 1.9223593, z: 0}
+  m_Size: {x: 1, y: 1.2246928, z: 0.99999964}
+  m_Center: {x: 0, y: 0.11234579, z: 0}
 --- !u!4 &2111970653 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4867270385822128008, guid: 7372d6a20dbe0994482b9c10d71651fd,
