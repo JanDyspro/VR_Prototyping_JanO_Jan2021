@@ -2,6 +2,7 @@
 using BNG;
 using DG.Tweening;
 using UnityEngine;
+using Valve.VR;
 
 public class CornerClimb : MonoBehaviour
 {
