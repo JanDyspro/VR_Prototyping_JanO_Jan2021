@@ -14,15 +14,6 @@ public class CornerClimb : MonoBehaviour
     [SerializeField] private HandController _handControllerRight;
 
     [HideInInspector] public bool goingToMove = false;
-    
-
-    private void Update()
-    {
-        if (goingToMove)
-        {
-            Move();
-        }
-    }
 
     private void OnTriggerEnter(Collider other)
     {
@@ -30,11 +21,12 @@ public class CornerClimb : MonoBehaviour
         {
             goingToMove = true;
             Debug.Log("Moved");
+            Move();
             
         }
     }
 
-    public void Move()
+    private void Move()
     {
         _inputBridge.RightGrip = 0;
         _inputBridge.LeftGrip = 0;
