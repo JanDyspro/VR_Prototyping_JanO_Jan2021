@@ -23,6 +23,7 @@ namespace BNG {
             get { return selectedLocomotion; }
         }
 
+        [SerializeField] private CornerClimb _cornerClimb = null;
         [Header("Camera Options : ")]
 
         [Tooltip("If true the CharacterController will move along with the HMD, as long as there are no obstacle's in the way")]
@@ -454,7 +455,7 @@ namespace BNG {
 
         void onGrabbedClimbable() {
             // Don't allow player movement while climbing
-            if (smoothLocomotion) {
+            if (smoothLocomotion && !_cornerClimb.goingToMove) {
                 smoothLocomotion.DisableMovement();
             }
 
