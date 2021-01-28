@@ -22,7 +22,9 @@
     <list default="true" id="b537e3cd-dff7-4c49-aab9-0275776475b5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.VR_Prototyping_JanO_Jan2021/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VR_Prototyping_JanO_Jan2021/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CornerClimb.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CornerClimb.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/OpenDoor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/OpenDoor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,10 +45,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayAnimation.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/OpenDoor.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PressurePlate.cs" />
         <option value="$PROJECT_DIR$/Assets/VR-Framework/BNG Framework/Scripts/Core/BNGPlayerController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CornerClimb.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/OpenDoor.cs" />
       </list>
     </option>
   </component>
@@ -56,6 +58,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -95,7 +98,8 @@
       <workItem from="1611243201231" duration="3017000" />
       <workItem from="1611309700931" duration="316000" />
       <workItem from="1611582083505" duration="5266000" />
-      <workItem from="1611611049457" duration="1259000" />
+      <workItem from="1611611049457" duration="1858000" />
+      <workItem from="1611800153241" duration="1606000" />
     </task>
     <servers />
   </component>
